@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "WPA field recordings in Jacksonville (1939 recording expedition: Herbert Halpert)" ] },
+    "summary": { "en": [ "This recording is the second of three recordings made during a 1939 Works Project Administration (WPA) trip to record songs and folks stories in Jacksonville, Florida. Zora Neale Hurston discusses and performs the songs she has collected and responds to questions from Halpert." ] },
+    "items": [
+    ]
+}
