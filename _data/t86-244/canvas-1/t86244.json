@@ -1,0 +1,638 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244.json",
+  "type": "AnnotationPage",
+  "label": "t86244",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH introduces Mule on the Mount in response to questions by Halpert. \"There's no place where I don't hear some of the same verses . . .I'm going to sing verses from a whole lot of places",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.000000,52.761282"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mule on the Mount",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.000000,240.059652"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH starts singing Mule on the Mount",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "56.189511"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Halpert aks how many verses are typically sung. ZNH responds \"sometimes they sing 30 and 40 verses . . . it's one of these things that grown by incremental repetition until perhaps it's the longest song in America. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "218.570509"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LOC: 31-37 A1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "242.317266,245.327419"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Halpert introduces Beatrice Lange who beings telling \"folk stories\" that her brother-in-law told her, and who, \"this old negro of his told him about it\". The story is a \"hurricane story\" that happens in 1898. Lange reads it from notes. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "249.633609,500.354218"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LOC 31-37, B1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "501.775678"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH introduces Let the Deal Go Down Boy; gambling song, collected at Boston Florida; The men are playing a game called Georgia skin; ZNH explains the rules.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "505.036677,625.442772"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Let the Deal Go Down Boy",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "505.036677,769.428394"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH begins to sing Let the Deal Go Down",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "626.111695,769.261163"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LOC 31, 38 A1 A2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "775.448699"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH introduces Uncle Bud. \"Uncle Bud is not a work song; it's a sort of social song for amusement and it's so widely distributed, it's growing all the time by incremental repetition\" Halpert asks, is it sung before the respectable ladies? Never!, ZNH says, it's one of those jook songs and the woman that they sing Uncle Bud infront of is a  of is a jook woman.   jook song not song in front of respectable women;",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "778.124390,822.265625"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH sings Uncle Bud.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "824.218750,959.960938"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I think that's a very valualbe contribution to science",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "965.418940,967.931220"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh the Buford Boat done Come",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "972.613680,1036.495802"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LOC 3130A, B1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1040.093352,1042.181646"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cuz ever been down from Johnny Bardon, collected in 1933. It's one of those tings just go around all the jooks and what not and learn a verse here and a verse there. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1043.069290,1188.090421"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Halimufack. I was in a big crowd and I learned it from the crowd. I don't remember who teached it to me. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1189.000852,1315.102128"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HOw do you learn most of your songs? I just get in the crowd . . . finally I get so I can sing a song . . . I sing them back so they can tell me I sing them just like them . . . then I carry them in my memory . . . I learn my song myself because then I can take it with me wherever I go.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1273.391996"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They play the tune they don't sing the words. Some people cal it Po Boy and some of them call it Po Girl . . .The change is in the tune rather than the words. Where did you pick up the way you sing it? Not all my life but I kept learning verses as I've gone around. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1399.470010"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-39 b1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1582.671229"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mama don't want no peas no rice.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1595.129915"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "About a woman who wanted to stay drunk all the time and her husband is really complaining about it. He's explaining to his neighbors what's the matter with his wife and why they don't get along better.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1612.354676"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "3140a 1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1729.165311"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Evelyn Werner, 32, born and raised in Jacksonville",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1738.028537"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. corse would you please explain why we asked to have this record made? This record was made for the purpose of recording the anunciation of an edcuated Southern white voice. And the story was one which was recorded by the Federal Writers as part of their work for the American guide series volume that's Florida.  [ZNH: \"educated white woman\"]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1836.360182"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Corse will please introduce the speaker? This is Mrs. Rollis Southworth, State Director of the Professional Service Projects of the WPA in Florida who will give us her opinion of the recording program of the folk songs in Florida.  ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1870.809703"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Personaly, my greatest interst is in the Negro Folklore and how justly proud we all are of Zora Hurston whose fine and variabiliy and wealth of experience has made our recordings possible today.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1922.400371"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH guides HH in his question from the background: \"the one without the words\" ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2102.925898"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas/t86244-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-42 a1, 2, and 3",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2706.377835"
+        }
+      }
+    }
+  ]
+}
