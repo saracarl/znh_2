@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC.json",
+  "type": "AnnotationPage",
+  "label": "LOC",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-37 A1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "242.317266,245.327419"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-37, B1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "501.775678,504.080579"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-38 A1 A2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "775.448699,777.427686"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-30A, B1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1040.093352,1042.181646"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-39 A1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1316.650391,1320.556641"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-39 b1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1584.990564,1587.82959"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-40, a1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1729.16531,1731.26221"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-40 b1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1939.758301,1941.709711"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-41, A1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2210.876465,2213.07373"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-41 B1, 2, and 3",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2440.917969,2444.213867"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-42 a1, 2, and 3",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2706.377835,2710.205078"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-42 B1, 2, 3, and 4.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2975.097656,2978.393555"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "31-43 A1 and 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3230.268595,3232.902893"
+        }
+      }
+    }
+  ]
+}

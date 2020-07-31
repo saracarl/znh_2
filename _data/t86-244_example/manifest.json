@@ -30,6 +30,12 @@
             "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Notes.json",
             "label": "Notes"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/LOC.json",
+            "label": "LOC"
+          }
         ],
         "items": [
           {
