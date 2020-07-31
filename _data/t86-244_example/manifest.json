@@ -23,6 +23,14 @@
         "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3400.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/t86244notes.json",
+            "label": "t86244notes"
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/paintings",
