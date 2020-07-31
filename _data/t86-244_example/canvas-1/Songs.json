@@ -1,0 +1,197 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs.json",
+  "type": "AnnotationPage",
+  "label": "Songs",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mule on the Mount",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,240.059652"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Let the Deal Go Down Boy",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "505.036677,769.428394"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Uncle Bud",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "777.427686,968.02686"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh the Buford Boat Done Come",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "972.61368,1036.495802"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cuz Ever Been Down",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1043.06929,1188.090421"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Halimuhfack",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1189.000852,1315.366736"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Tampa",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1326.23291,1386.71875"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Po Boy, Po Gal",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1407.838326,1583.057851"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas/Songs-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mama Don't Want No Peas No Rice",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_2/t86-244_example/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1595.129915,1728.515625"
+        }
+      }
+    }
+  ]
+}
